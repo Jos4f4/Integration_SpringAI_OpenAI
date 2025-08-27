@@ -57,7 +57,6 @@ INDEX VERSION 1.134+J:\Projetos\Integration_SpringAI_OpenAI\.metadata\.plugins\o
 1088722999.index
 1311608254.index
 414216711.index
-3987369897.index
 1511263787.index
 3954058778.index
 387059172.index
