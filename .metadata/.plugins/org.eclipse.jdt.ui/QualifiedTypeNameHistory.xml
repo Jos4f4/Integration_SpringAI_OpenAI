@@ -3,4 +3,6 @@
     <fullyQualifiedTypeName name="org.springframework.ai.openai.OpenAiChatOptions"/>
     <fullyQualifiedTypeName name="org.springframework.ai.chat.model.ChatModel"/>
     <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="org.springframework.ai.openai.OpenAiImageOptions"/>
+    <fullyQualifiedTypeName name="org.springframework.web.reactive.config.CorsRegistry"/>
 </qualifiedTypeNameHistroy>
