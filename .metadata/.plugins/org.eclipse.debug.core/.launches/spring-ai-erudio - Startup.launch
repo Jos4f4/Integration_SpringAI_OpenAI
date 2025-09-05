@@ -8,7 +8,7 @@
         <listEntry value="1"/>
     </listAttribute>
     <mapAttribute key="org.eclipse.debug.core.environmentVariables">
-        <mapEntry key="OPEN_AI_API_KEY" value="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"/>
+        <mapEntry key="OPEN_AI_API_KEY" value="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"/>
     </mapAttribute>
     <booleanAttribute key="org.eclipse.jdt.launching.ATTR_ATTR_USE_ARGFILE" value="false"/>
     <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
